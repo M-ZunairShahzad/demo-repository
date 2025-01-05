@@ -1,3 +1,4 @@
 # demo-repository
-just check that how to create that repository 
+This is Zunair, and I'm learning Git
+<br>
 Author - M. Zunair Shahzad
